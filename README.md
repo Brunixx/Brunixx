@@ -1,4 +1,4 @@
-### Well hello there. I am Brunixx.
+# Well hello there. I am Brunixx.
 Outta jokes and all, I just want a nice and decent README.md file, so let's get started with a lot of information about myself and what do I do right now or my later projects that will help me on my way.
 
 ## How about you? - Who you are?
@@ -18,4 +18,4 @@ A website, the one I mentioned upside actually. It MIGHT come as a github reposi
 
 Other than that, I will work on a few scripts written in other languages, some however will be uploaded to my [main account](https://github.com/minecon099) instead since it fits better than my school account (And were actually learnt somewhere else which is NOT school lol)
 
-# Greatness awaits! - Brunixx AKA Pogamepayer
+### Greatness awaits! - Brunixx AKA Pogamepayer
